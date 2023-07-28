@@ -1,6 +1,10 @@
 # Self-Driving Car in Need for Speed : Most Wanted 2012 Game
 
-Dependencies : 
+## Summary:
+
+In my project, I've created a functional computer-vision model for autonomous driving, utilizing a realistic video game as a simulation platform. The model incorporates fundamental object detection and lane-finding algorithms similar to those employed in Full Self-Driving Tesla vehicles. Combining these algorithms with a sophisticated driving algorithm, my system is capable of maneuvering autonomously, successfully navigating around obstacles, obeying traffic signs and signals, and ensuring a safe journey from point A to B.
+
+#### Dependencies : 
 
 ```
 Numpy                    1.14.5
